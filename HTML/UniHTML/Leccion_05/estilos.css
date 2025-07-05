@@ -1,0 +1,10 @@
+h1 {
+  color: blue;
+  font-size: 35px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+  color: white;
+  background-color: crimson;
+}
